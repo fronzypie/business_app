@@ -1,0 +1,82 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Flutter App",
+			"type": "shell",
+			"command": "flutter run",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$dart"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Run Flutter App",
+			"type": "shell",
+			"command": "flutter run",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$dart"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Run Flutter App",
+			"type": "shell",
+			"command": "flutter run",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$dart"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Full Flutter Restart",
+			"type": "shell",
+			"command": "flutter run",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$dart"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Run Flutter App with Google Maps",
+			"type": "shell",
+			"command": "flutter run",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$dart"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Restart Flutter App",
+			"type": "shell",
+			"command": "flutter run",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$dart"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Run Flutter App on Device",
+			"type": "shell",
+			"command": "flutter run",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$dart"
+			],
+			"group": "build"
+		}
+	]
+}
